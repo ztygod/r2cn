@@ -83,7 +83,7 @@ repos:
       - id: "benjamin-747"
         task: 3
         maxScore: 40
-  - name: "ztygod.github.io"
+  - name: "ztygod/ztygod.github.io"
     maintainers:
       - id: "ztygod"
         task: 3
